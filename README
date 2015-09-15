@@ -1,1 +1,12 @@
-My friend wanted his personal website to hold a more interactive environment for the user. We decided that a page transition within the menu tabs would be simple enough that the user wouldn�t be bombarded with effects but engaging enough to read thoroughly. I used Pedro Botelho�s set of transitioning pages and altered the snippet I needed to achieve his request. Page transition:http://tympanus.net/codrops/2013/05/07/a-collection-of-page-transitions/
+Renovated a friend’s website to add a better functionality and user experience. My friend and I decided that a page transition within the menu tab would be simple enough that the user would not be bombarded with effects but engaging enough to read thoroughly. Used a plug-in (Pedro Botelho) to help enable the page transitions.
+
+Page transition:
+http://tympanus.net/codrops/2013/05/07/a-collection-of-page-transitions/
+
+Tools Used:
+
+•	HTML
+
+•	CSS
+
+•	JAVASCRIPT
